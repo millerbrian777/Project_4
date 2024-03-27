@@ -9,3 +9,7 @@ Pandas, Keras Tuner, Seaborn, Scikit Learn, Numpy, Matplotlib,
 
 Final Results:
 When using the Random Forest classifier the predictions of someone not having diabetes was at 97% and those who did have diabetes at 96%. 
+
+link to tablaeu:
+
+link to nueral network: https://colab.research.google.com/drive/1rlK3vLnJExpVjVe_b3MK4Q-J4soJJqLz?usp=sharing
